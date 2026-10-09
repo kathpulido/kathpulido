@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Deysa Katherine Pulido Valenzuela — Ingeniera Catastral y Geodesta" />
+<img src="assets/banner.svg" width="100%" alt="Katherine Pulido Valenzuela — Ingeniera Catastral y Geodesta" />
 
 <img src="assets/escribiendo.svg" width="100%" alt="Ingeniera Catastral y Geodesta." />
 
@@ -17,17 +17,6 @@
 
 <img src="assets/escala.svg" width="100%" alt="" />
 
-## 🧮 La ecuación de una geodesta
-
-$$h = H + N$$
-
-| Letra | Qué es | De dónde sale |
-| :---: | --- | --- |
-| **h** | Altura elipsoidal | La que entrega el receptor GNSS. |
-| **H** | Altura ortométrica | La que la gente llama «sobre el nivel del mar». |
-| **N** | Ondulación del geoide | La diferencia entre las dos; sale de un modelo geoidal. |
-
-<img src="assets/escala.svg" width="100%" alt="" />
 
 ## 📊 Mi GitHub en números
 
