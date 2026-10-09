@@ -25,7 +25,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: show_icons=true&include_all_commits=true&locale=es&hide_border=true&border_radius=14&bg_color=0E0B1F&title_color=C4B5FD&icon_color=E879F9&text_color=EDE9FE&ring_color=8B5CF6
+          options: show_icons=true&include_all_commits=true&disable_animations=true&locale=es&hide_border=true&border_radius=14&bg_color=0E0B1F&title_color=C4B5FD&icon_color=E879F9&text_color=EDE9FE&ring_color=8B5CF6
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -33,14 +33,14 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: layout=donut&langs_count=6&locale=es&hide_border=true&border_radius=14&bg_color=0E0B1F&title_color=C4B5FD&text_color=EDE9FE
+          options: layout=donut&langs_count=6&disable_animations=true&locale=es&hide_border=true&border_radius=14&bg_color=0E0B1F&title_color=C4B5FD&text_color=EDE9FE
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Racha de contribuciones
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&locale=es&hide_border=true&border_radius=14&background=0E0B1F&stroke=4C1D95&ring=E879F9&fire=FCD34D&currStreakNum=F5F3FF&sideNums=F5F3FF&currStreakLabel=E879F9&sideLabels=C4B5FD&dates=A78BFA
+          options: user=${{ github.repository_owner }}&disable_animations=true&locale=es&hide_border=true&border_radius=14&background=0E0B1F&stroke=4C1D95&ring=E879F9&fire=FCD34D&currStreakNum=F5F3FF&sideNums=F5F3FF&currStreakLabel=E879F9&sideLabels=C4B5FD&dates=A78BFA
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
