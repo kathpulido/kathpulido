@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="1200" height="130" role="img" aria-label="">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1E1240"/><stop offset=".5" stop-color="#7C3AED"/><stop offset="1" stop-color="#E879F9"/>
+    </linearGradient>
+    <path id="ola" d="M0 40 C150 10 250 70 400 40 S650 10 800 40 S1050 70 1200 40 S1450 10 1600 40 S1850 70 2000 40 S2250 10 2400 40 V130 H0 Z"/>
+  </defs>
+  <style>
+    .o { animation: corre linear infinite; }
+    .o1 { animation-duration: 18s; opacity: .35; }
+    .o2 { animation-duration: 12s; opacity: .55; animation-direction: reverse; }
+    .o3 { animation-duration: 8s; opacity: 1; }
+    @keyframes corre { from { transform: translateX(0); } to { transform: translateX(-800px); } }
+    @media (prefers-reduced-motion: reduce) { .o { animation: none; } }
+  </style>
+  <use href="#ola" class="o o1" fill="url(#g1)" y="0"/>
+  <use href="#ola" class="o o2" fill="url(#g1)" y="22"/>
+  <use href="#ola" class="o o3" fill="url(#g1)" y="44"/>
+</svg>

@@ -1,7 +1,7 @@
 <!--
   README de perfil de GitHub · Deysa Katherine Pulido Valenzuela
   Usuario de GitHub: kathpulido.
-  Los demás widgets los genera la acción .github/workflows/widgets.yml y no necesitan cambios.
+  Todos los widgets, salvo el contador de visitas, los genera la acción .github/workflows/widgets.yml.
 -->
 
 <div align="center">
@@ -45,13 +45,13 @@ $$h = H + N$$
 ### 📈 Actividad del último mes
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kathpulido&days=31&height=300&area=true&hide_border=true&radius=14&bg_color=0E0B1F&color=EDE9FE&title_color=C4B5FD&line=E879F9&point=FCD34D&area_color=8B5CF6&custom_title=Contribuciones%20de%20los%20%C3%BAltimos%2031%20d%C3%ADas" alt="Gráfica de actividad" />
+<img width="100%" src="profile/actividad.svg" alt="Perfil de actividad de los últimos 31 días" />
 </div>
 
-### 🏆 Trofeos
+### 🏆 Logros
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kathpulido&theme=aura&no-frame=true&column=-1&margin-w=10&margin-h=10" alt="Trofeos de GitHub" />
+<img width="100%" src="profile/logros.svg" alt="Logros de GitHub" />
 </div>
 
 <img src="assets/escala.svg" width="100%" alt="" />
@@ -82,4 +82,4 @@ Escribo **ingeniera**, con *a*. Nombrar también es una forma de medir.
 
 Cada vez somos más mujeres en la topografía, la geodesia y el catastro. El violeta de este perfil no es casualidad.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1240,50:7C3AED,100:E879F9&height=120&section=footer" alt="" />
+<img width="100%" src="assets/onda.svg" alt="" />

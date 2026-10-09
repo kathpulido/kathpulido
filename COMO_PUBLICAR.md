@@ -22,18 +22,15 @@ Después la acción se repite sola todos los días.
 
 ## Qué widget sale de dónde
 
-| Widget | Cómo se genera | Si falla |
-| --- | --- | --- |
-| Estadísticas y lenguajes | Acción en tu repositorio | Revisa la pestaña Actions |
-| Racha de contribuciones | Acción en tu repositorio | Revisa la pestaña Actions |
-| Relieve 3D | Acción en tu repositorio | Revisa la pestaña Actions |
-| Serpiente (versión clara y oscura) | Acción en tu repositorio | Revisa la pestaña Actions |
-| Contador de visitas | Servicio público (komarev.com) | Espera unas horas |
-| Gráfica de actividad | Servicio público (Vercel) | Espera unas horas |
-| Trofeos | Servicio público (Vercel) | Espera; el autor avisó que el servicio puede cerrar |
-| Onda del final | Servicio público (Vercel) | Espera unas horas |
+| Widget | Cómo se genera |
+| --- | --- |
+| Estadísticas, lenguajes y racha | Acción en el repositorio (proyectos de código abierto) |
+| Relieve 3D y serpiente | Acción en el repositorio (proyectos de código abierto) |
+| Perfil de actividad y logros | Acción en el repositorio (`.github/widgets/widgets_propios.py`) |
+| Banner, frase animada, separadores y onda final | Archivos fijos en `assets/` |
+| Contador de visitas | Servicio público (komarev.com) |
 
-Los que se generan con la acción quedan guardados como archivos y no dependen de nadie. Los de servicio público pueden fallar por ratos cuando hay mucho tráfico.
+La acción corre sola todos los días. Para forzarla: pestaña **Actions → Widgets del perfil → Run workflow**.
 
 ## Cambiar colores o frases
 
