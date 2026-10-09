@@ -17,7 +17,7 @@
 <circle cx="84.0" cy="58" r="16" fill="none" stroke="#8B5CF6" stroke-opacity=".45" stroke-dasharray="2 3"/>
 <text class="lv" x="84.0" y="63.5" text-anchor="middle" style="fill:#8B5CF6; font-size:15px">B</text>
 <text class="n" x="84.0" y="146" text-anchor="middle">Commits del año</text>
-<text class="v" x="84.0" y="166" text-anchor="middle">16</text>
+<text class="v" x="84.0" y="166" text-anchor="middle">17</text>
 </g>
 <g class="m" style="animation-delay:0.12s">
 <rect x="162" y="10" width="136" height="176" rx="12" fill="#8B5CF6" fill-opacity=".07" stroke="#8B5CF6" stroke-opacity=".35"/>
@@ -27,7 +27,7 @@
 <circle cx="230.0" cy="58" r="16" fill="none" stroke="#8B5CF6" stroke-opacity=".45" stroke-dasharray="2 3"/>
 <text class="lv" x="230.0" y="63.5" text-anchor="middle" style="fill:#8B5CF6; font-size:15px">B</text>
 <text class="n" x="230.0" y="146" text-anchor="middle">Contribuciones</text>
-<text class="v" x="230.0" y="166" text-anchor="middle">20</text>
+<text class="v" x="230.0" y="166" text-anchor="middle">21</text>
 </g>
 <g class="m" style="animation-delay:0.24s">
 <rect x="308" y="10" width="136" height="176" rx="12" fill="#8B5CF6" fill-opacity=".07" stroke="#8B5CF6" stroke-opacity=".35"/>
