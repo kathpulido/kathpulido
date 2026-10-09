@@ -1,0 +1,25 @@
+{
+  "type": "normal",
+  "fileName": "profile-violeta.svg",
+  "backgroundColor": "#0E0B1F",
+  "foregroundColor": "#EDE9FE",
+  "strongColor": "#E879F9",
+  "weakColor": "#A78BFA",
+  "radarColor": "#E879F9",
+  "growingAnimation": true,
+  "contribColors": [
+    "#1E1240",
+    "#4C1D95",
+    "#6D28D9",
+    "#8B5CF6",
+    "#C4B5FD"
+  ],
+  "l10n": {
+    "commit": "Commits",
+    "repo": "Repositorios",
+    "review": "Revisiones",
+    "pullreq": "Pull/Req",
+    "issue": "Issues",
+    "contrib": "contribuciones"
+  }
+}
