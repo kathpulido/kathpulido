@@ -65,10 +65,3 @@ Cada día es una columna: entre más contribuciones, más alta. Como un modelo d
 
 <img src="assets/escala.svg" width="100%" alt="" />
 
-## 💜 Mujeres que miden el mundo
-
-Escribo **ingeniera**, con *a*. Nombrar también es una forma de medir.
-
-Cada vez somos más mujeres en la topografía, la geodesia y el catastro. El violeta de este perfil no es casualidad.
-
-<img width="100%" src="assets/onda.svg" alt="" />
